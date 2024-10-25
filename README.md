@@ -44,9 +44,8 @@ This repository is dedicated to sharing notes and code related to various Machin
    - Understanding association rule learning
    - Examples and code implementations
 
-## Additional Resources
+## Contributing
 
-- Useful articles and tutorials related to Machine Learning
-- Links to relevant research papers and books
+Contributions are welcome! Please feel free to submit issues, fork the repository, and create pull requests.
 
 
